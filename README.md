@@ -34,6 +34,7 @@
 
 👋​ You can call me Maxi 😊. <br>
 📚​ I’m currently in my  5th year (of 6) of high school.<br>
+🚩​ I really enjoy playing CTF's
 🤖​ I’m currently learning about Pentesting.<br>
 📫 How to reach me **passomax7@gmail.com**.<br>
 🏆​ My biggest future goal is to pass the OSCP exam.<br>
