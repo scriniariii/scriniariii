@@ -32,12 +32,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> ***About me ....***
 
-👋​ You can call me Maxi 😊 <br>
+👋​ You can call me Maxi 😊. <br>
 📚​ I’m currently in my  5th year (of 6) of high school.<br>
-🤖​ I’m currently learning about Pentesting<br>
-📫 How to reach me **passomax7@gmail.com**
+🤖​ I’m currently learning about Pentesting.<br>
+📫 How to reach me **passomax7@gmail.com**.<br>
 🏆​ My biggest future goal is to pass the OSCP exam.<br>
-💬 Ask me about: anything, I am happy to help<br><br><br><br>
+💬 Ask me about: anything, I am happy to help.<br><br>
  
 
 
