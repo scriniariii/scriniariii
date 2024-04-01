@@ -37,7 +37,6 @@
 🚩​ I really enjoy playing CTF's.<br>
 🤖​ I’m currently learning about Pentesting.<br>
 📫 How to reach me **passomax7@gmail.com**.<br>
-🏆​ My biggest future goal is to pass the OSCP exam.<br>
 💬 Ask me about: anything, I am happy to help.<br><br>
  
 
