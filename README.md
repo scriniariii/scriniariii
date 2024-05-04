@@ -62,7 +62,7 @@
 
 | ![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&theme=tokyonight) | ![Maximiliano GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scriniariii&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriniariii&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriniariii&theme=tokyonight) |
 
  <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>
 -----
