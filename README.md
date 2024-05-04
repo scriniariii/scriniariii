@@ -20,7 +20,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Maximiliano a high school student at the Escuela Técnica 32 "General José de San Martín"</a>. <br>
+    Hello, I am Maximiliano, a high school student at the Escuela Técnica 32 "General José de San Martín"</a>. <br>
     A passionate cybersecurity and programming self-learner <br>who is <b>obsessed</b>
     with discovering vulnerabilities in <b>computer systems</b>, always searching for new challenges and learning new things.
   </em> 
