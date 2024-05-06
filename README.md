@@ -4,7 +4,6 @@
 <h1 align="center">Hi, I'm Maximiliano Passo Koziura </h1>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-17-blue" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" />
   <img src="https://img.shields.io/badge/Lives-Buenos%20Aires,%20Argentina-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish%20(currently%20studying%20Chinese)-blue" />
@@ -33,7 +32,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> ***About me ....***
 
 👋​ You can call me Maxi 😊. <br>
-📚​ I’m currently in my  5th year (of 6) of high school.<br>
 🚩​ I really enjoy playing CTF's.<br>
 🤖​ I’m currently learning about Pentesting.<br>
 📫 How to reach me **passomax7@gmail.com**.<br>
