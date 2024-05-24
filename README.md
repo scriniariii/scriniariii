@@ -1,7 +1,6 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hi, I'm Maximiliano Passo Koziura </h1>
 
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" />
