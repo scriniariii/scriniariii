@@ -51,7 +51,7 @@
 
 <hr>
 
-<h3 align="left">Maximiliano's Github Activity Graph:</h3>
+<h3 align="left">Github Activity Graph:</h3>
 
 | ![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&theme=tokyonight) | ![Maximiliano GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scriniariii&theme=tokyonight) |
 | --- | --- |
