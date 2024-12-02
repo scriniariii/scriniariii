@@ -5,7 +5,6 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" />
   <img src="https://img.shields.io/badge/Lives-Buenos%20Aires,%20Argentina-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish%20(currently%20studying%20Chinese)-blue" />
 </p>
 <hr>
 
