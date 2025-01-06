@@ -13,20 +13,24 @@
 
 <p align="center">
   <em>
-    A passionate cybersecurity and programming self-learner <br>who is <b>obsessed</b>
-    with discovering vulnerabilities in <b>computer systems</b>, always searching for new challenges and learning new things.
-  </em> 
+    I'm a passionate self-taught cybersecurity enthusiast with a deep fascination for <b>discovering vulnerabilities</b> and analyzing <b>complex systems</b>.  
+        I specialize in <b>Red Teaming/Pentesting</b>, constantly seeking challenges that push my limits and expand my knowledge.  </em> 
   <br>
  
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> ***About me ....***
 
 📫 How to reach me **passomax7@gmail.com**.<br>
 💬 Ask me about: anything, I am happy to help.<br><br>
  
+
+## 🚀 Projects
+- [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.
+- [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A simple Linux backdoor.
 
 
 <h3 align="left">Languages and Tools:</h3>
