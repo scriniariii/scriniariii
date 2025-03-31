@@ -29,11 +29,11 @@
  
 
 ## 🚀 Projects
-- [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.
-- [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A simple Linux backdoor.
+📜 [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.<br>
+🐧 [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A simple Linux backdoor.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"></a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -50,7 +50,7 @@
 
 <hr>
 
-<h3 align="left">Github Activity Graph:</h3>
+<h3 align="left">📊 Github Activity Graph:</h3>
 
 | ![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&theme=tokyonight) | ![Maximiliano GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scriniariii&theme=tokyonight) |
 | --- | --- |
