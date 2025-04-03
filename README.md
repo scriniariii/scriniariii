@@ -30,7 +30,8 @@
 
 ## 🚀 Projects
 📜 [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.<br>
-🐧 [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A simple Linux backdoor.
+🐧 [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A simple Linux backdoor. <br>
+🌐 [**ProxyChanger**](https://github.com/scriniariii/ProxyChanger): A C utility that automatically manages and rotates HTTP proxies for Linux systems with Fish shell.
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
