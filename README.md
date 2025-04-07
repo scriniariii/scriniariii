@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">Cybersecurity | Red Teaming | Forensics </h3>
+<h3 align="center">Cybersecurity | Red Teaming | Pentesting </h3>
 <p align="center"></p>
 
 
