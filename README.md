@@ -53,6 +53,6 @@
 
 <h3 align="left">📊 Github Activity Graph:</h3>
 
-| !Scriniariii's github stats](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&theme=tokyonight) | ![Maximiliano GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scriniariii&theme=tokyonight) |
+| ![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=scriniariii&show_icons=true&theme=tokyonight) | ![Maximiliano GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scriniariii&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriniariii&theme=tokyonight) |
