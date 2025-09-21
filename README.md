@@ -21,21 +21,18 @@ Hobbyist developer and pentesting enthusiast  <br></em>
 💬 Ask me about: anything, I am happy to help.<br><br>
  
 
-## 🚀 Projects
+##  Projects
 📜 [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.<br>
 🐧 [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A Horrible Linux backdoor. <br>
 🌐 [**ProxyChanger**](https://github.com/scriniariii/ProxyChanger): A C utility that automatically manages and rotates HTTP proxies for Linux systems with Fish shell.
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"></a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
+<h3 align="left">Languages:</h3>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=red)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
