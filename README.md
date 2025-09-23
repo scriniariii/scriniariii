@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-Hobbyist developer and pentesting enthusiast  <br></em> 
+I break systems to understand how they work... then secure them  <br></em> 
 🇪🇸 | 🇨🇳 | 🇬🇧 
  <br>
  
