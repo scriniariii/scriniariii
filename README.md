@@ -19,7 +19,7 @@ I break systems to understand how they work... then secure them  <br></em>
 
 📫 How to reach me **electronichorses@gmail.com**.<br>
 💬 ask me anything about horses, I'm happy to help.<br>
-✔️​ I use Arch btw.<br><br>
+✔️​ I use horses btw.<br><br>
  
 
 ##  Projects
