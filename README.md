@@ -24,6 +24,7 @@ I break systems to understand how they work... then secure them  <br></em>
 
 ##  Projects
 📜 [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.<br>
+🖥️ [**CVE research**](https://github.com/scriniariii/CVE-research-labs): Research driven project for analyzing CVEs through exploit development.<br>
 🐧 [**Linux Backdoor**](https://github.com/scriniariii/linux-backdoor): A Horrible Linux backdoor. <br>
 🌐 [**ProxyChanger**](https://github.com/scriniariii/ProxyChanger): A C utility that automatically manages and rotates HTTP proxies for Linux systems with Fish shell. <br>
 🐴 [**My horse research**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D): My Horse research.
