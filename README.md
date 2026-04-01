@@ -26,7 +26,7 @@ $$\   $$ |$$ |      $$ |      $$ |$$ |  $$ |$$ |$$  __$$ |$$ |      $$ |$$ |$$ |
 └─$ whoami
 
 [+] Loading profile ........... done
-[+] Decrypting ego ............ done
+[+] Decrypting ■■■ ............ done
 
 > Handle    : scriniariii
 > Role      : Penetration Tester / Security Researcher
