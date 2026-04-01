@@ -67,6 +67,8 @@ Proto  Local Address                           Process
 tcp    github.com/scriniariii                →   [ GitHub ]
 tcp    app.hackthebox.com/users/1693016      →   [ HTB    ]
 tcp    tryhackme.com/p/h4wtsauce             →   [ THM    ]
+tcp    electronichorses@gmail.com            →   [ Gmail  ]
+
 ```
 
 
