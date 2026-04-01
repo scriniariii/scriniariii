@@ -1,27 +1,44 @@
+> [!CAUTION]  
+> ⚠️ **Disclaimer**  
+> Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts or exploits.
 
-<h3 align="center">Pentesting / BugBounty  / AppSec / Low-Level </h3>
-<p align="center"></p>
+---
+
+```
+Last login: Mon Jan 01 00:00:00 2025 from 10.10.14.37
+
+ $$$$$$\                      $$\           $$\                     $$\ $$\ $$\ 
+$$  __$$\                     \__|          \__|                    \__|\__|\__|
+$$ /  \__| $$$$$$$\  $$$$$$\  $$\ $$$$$$$\  $$\  $$$$$$\   $$$$$$\  $$\ $$\ $$\ 
+\$$$$$$\  $$  _____|$$  __$$\ $$ |$$  __$$\ $$ | \____$$\ $$  __$$\ $$ |$$ |$$ |
+ \____$$\ $$ /      $$ |  \__|$$ |$$ |  $$ |$$ | $$$$$$$ |$$ |  \__|$$ |$$ |$$ |
+$$\   $$ |$$ |      $$ |      $$ |$$ |  $$ |$$ |$$  __$$ |$$ |      $$ |$$ |$$ |
+\$$$$$$  |\$$$$$$$\ $$ |      $$ |$$ |  $$ |$$ |\$$$$$$$ |$$ |      $$ |$$ |$$ |
+ \______/  \_______|\__|      \__|\__|  \__|\__| \_______|\__|      \__|\__|\__|
+
+         [ pentester :: exploit dev :: ctf player ]
+```
 
 
 
-<p align="center">
-  <em>
-</em> 
-🇪🇸 | 🇩🇪 | 🇬🇧 
- <br>
+```bash
+┌──(scriniariii@arch)-[~]
+└─$ ./whoami.sh
+
+[+] Loading profile ........... done
+[+] Decrypting ego ............ done
+
+> Handle    : scriniariii
+> Role      : Penetration Tester / Security Researcher
+> Status    : [ ACTIVE ]
+> Location  : /dev/somewhere
+> Shell     : /bin/bash
+> Clearance : root
+```
+
  
-</p>
-<br><br>
 
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> ***About me ....***
-
-~> How to reach me **passomax7@gmail.com**.<br>
-✔️​ I use horses btw.<br><br>
- 
-
-##  Projects
+##  ./Projects
 <details closed>
     <summary><b>~> Exploit development</b></summary>
     
@@ -36,13 +53,22 @@
 ~> [**My horse research**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D): My Horse research.
 
 
-<h3 align="left">Languages:</h3>
+## ./stack
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+```c
+char *languages[] = { "C/C++", "Python", "Java", "TypeScript" NULL };
+```
+```bash
+┌──(scriniariii@Arch)-[~]
+└─$ netstat -tulpn | grep LISTEN
+
+Proto  Local Address                           Process
+─────────────────────────────────────────────────────────────
+tcp    github.com/scriniariii                →   [ GitHub ]
+tcp    app.hackthebox.com/users/1693016      →   [ HTB    ]
+tcp    tryhackme.com/p/h4wtsauce             →   [ THM    ]
+```
+
 
 
 ---
