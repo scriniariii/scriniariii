@@ -23,7 +23,7 @@ $$\   $$ |$$ |      $$ |      $$ |$$ |  $$ |$$ |$$  __$$ |$$ |      $$ |$$ |$$ |
 
 ```bash
 ┌──(scriniariii@arch)-[~]
-└─$ ./whoami.sh
+└─$ whoami
 
 [+] Loading profile ........... done
 [+] Decrypting ego ............ done
