@@ -49,7 +49,6 @@ $$\   $$ |$$ |      $$ |      $$ |$$ |  $$ |$$ |$$  __$$ |$$ |      $$ |$$ |$$ |
 </details>
 
 ~> [**My Write-Ups**](https://github.com/scriniariii/CTF-Write-Ups): Here you will find all my write-ups from different ctf sites.<br>
-~> [**ConwayOS**](https://github.com/scriniariii/conwayos): An operating system for playing Conway's Game of Life. <br>
 
 
 
